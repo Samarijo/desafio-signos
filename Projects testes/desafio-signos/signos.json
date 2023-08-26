@@ -1,6 +1,5 @@
-
-export default {
-    "signos": [
+{
+    "signos" [
       {
         "nome": "Aries",
         "descricao": "Impulsivo, o ariano nao pensa muito sobre seus atos. E aquele que primeiro age, depois reflete.Agitado, precisa de muita atividade para gastar a energia, senao pode ficar agressivo e explosivo.",
@@ -73,5 +72,5 @@ export default {
         "data_inicio": "20/02",
         "data_fim": "20/03"
       }
-    ]
-  }
+  ]
+}
